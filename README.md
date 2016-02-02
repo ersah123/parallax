@@ -1,5 +1,5 @@
 # parallax
 
 
-High Performans (RAF) Parallax Background jquery plugin.
+High Performans Parallax Background jquery plugin.
 
